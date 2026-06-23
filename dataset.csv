@@ -1,0 +1,661 @@
+,Category,Amount,Status,Continent
+0,Finance,2123.2,Intermediate,Europe
+1,Travel,3401.6,Advanced,Australia
+2,Food,1462.1,Amateur,Europe
+3,Food,1431.8,Amateur,Africa
+4,Finance,1435.1,Amateur,South America
+5,Technology,2285.6,Intermediate,South America
+6,Travel,998.4,Beginner,Africa
+7,Travel,2215.0,Intermediate,Australia
+8,Sports,1010.6,Beginner,Europe
+9,Finance,1014.3,Beginner,Asia
+10,Finance,990.8,Beginner,South America
+11,Sports,3351.8,Advanced,Europe
+12,Sports,1046.3,Beginner,Europe
+13,Food,2256.0,Intermediate,North America
+14,Travel,1479.2,Amateur,South America
+15,Technology,1437.5,Amateur,Australia
+16,Food,2084.9,Intermediate,Africa
+17,Finance,1423.1,Amateur,Asia
+18,Food,2357.8,Intermediate,Europe
+19,Travel,989.8,Beginner,Asia
+20,Food,2374.9,Intermediate,North America
+21,Sports,2325.0,Intermediate,Europe
+22,Finance,1561.2,Amateur,Asia
+23,Travel,3768.3,Advanced,Europe
+24,Food,2061.6,Intermediate,Australia
+25,Sports,3994.8,Advanced,Europe
+26,Technology,1551.0,Amateur,South America
+27,Technology,1418.6,Amateur,Australia
+28,Travel,1496.2,Amateur,South America
+29,Technology,1022.2,Beginner,Europe
+30,Food,1049.1,Beginner,Europe
+31,Food,1546.8,Amateur,Australia
+32,Technology,3499.2,Advanced,South America
+33,Sports,3343.2,Advanced,Africa
+34,Technology,3349.3,Advanced,Australia
+35,Food,990.7,Beginner,North America
+36,Finance,1005.2,Beginner,Africa
+37,Technology,4009.7,Advanced,Australia
+38,Travel,1460.8,Amateur,Africa
+39,Food,957.7,Beginner,North America
+40,Food,2087.5,Intermediate,Africa
+41,Travel,1543.3,Amateur,Europe
+42,Finance,2219.5,Intermediate,Africa
+43,Technology,1001.7,Beginner,Europe
+44,Food,1577.9,Amateur,South America
+45,Sports,953.4,Beginner,Europe
+46,Technology,968.5,Beginner,South America
+47,Travel,1028.0,Beginner,North America
+48,Finance,1574.1,Amateur,Europe
+49,Sports,964.0,Beginner,Europe
+50,Travel,2068.5,Intermediate,South America
+51,Technology,1490.1,Amateur,North America
+52,Sports,3954.6,Advanced,Europe
+53,Food,1503.6,Amateur,Africa
+54,Finance,963.5,Beginner,Europe
+55,Sports,1580.1,Amateur,Africa
+56,Travel,1485.7,Amateur,Europe
+57,Food,1046.6,Beginner,South America
+58,Travel,3428.6,Advanced,Africa
+59,Technology,988.8,Beginner,Asia
+60,Travel,3805.4,Advanced,Europe
+61,Finance,1008.3,Beginner,Africa
+62,Sports,1437.4,Amateur,South America
+63,Travel,1487.2,Amateur,Europe
+64,Sports,1039.7,Beginner,Europe
+65,Finance,2251.0,Intermediate,South America
+66,Sports,1492.0,Amateur,Africa
+67,Sports,2306.2,Intermediate,South America
+68,Finance,1510.4,Amateur,Europe
+69,Food,2101.2,Intermediate,North America
+70,Technology,2353.9,Intermediate,Asia
+71,Sports,2033.6,Intermediate,Asia
+72,Sports,989.4,Beginner,Africa
+73,Food,999.5,Beginner,Europe
+74,Technology,953.2,Beginner,Europe
+75,Food,1434.4,Amateur,South America
+76,Technology,1474.5,Amateur,Australia
+77,Travel,3814.2,Advanced,South America
+78,Food,1015.7,Beginner,North America
+79,Travel,1004.9,Beginner,South America
+80,Food,973.2,Beginner,Africa
+81,Travel,3978.9,Advanced,Europe
+82,Finance,2060.4,Intermediate,South America
+83,Sports,3482.3,Advanced,South America
+84,Sports,984.8,Beginner,North America
+85,Finance,1417.2,Amateur,North America
+86,Travel,1498.4,Amateur,Australia
+87,Sports,1010.4,Beginner,Africa
+88,Food,1026.4,Beginner,Asia
+89,Sports,1022.2,Beginner,Asia
+90,Technology,3549.5,Advanced,Africa
+91,Food,991.1,Beginner,Asia
+92,Finance,3787.3,Advanced,Asia
+93,Finance,3663.7,Advanced,Asia
+94,Sports,3361.9,Advanced,Africa
+95,Travel,3578.1,Advanced,North America
+96,Food,2141.9,Intermediate,Australia
+97,Finance,1422.3,Amateur,Asia
+98,Sports,3873.8,Advanced,South America
+99,Travel,1449.9,Amateur,North America
+100,Sports,1450.2,Amateur,North America
+101,Food,1494.0,Amateur,North America
+102,Technology,1027.0,Beginner,Africa
+103,Technology,3616.1,Advanced,Africa
+104,Technology,2070.4,Intermediate,Australia
+105,Sports,986.5,Beginner,North America
+106,Sports,3316.1,Advanced,North America
+107,Travel,1441.5,Amateur,Asia
+108,Technology,2100.1,Intermediate,South America
+109,Travel,2157.3,Intermediate,Asia
+110,Travel,1536.1,Amateur,North America
+111,Food,3739.9,Advanced,South America
+112,Food,3811.3,Advanced,Australia
+113,Sports,4080.9,Advanced,Australia
+114,Travel,2201.5,Intermediate,Australia
+115,Finance,1001.2,Beginner,North America
+116,Food,1574.3,Amateur,Africa
+117,Technology,1048.3,Beginner,North America
+118,Food,3752.7,Advanced,North America
+119,Travel,3892.2,Advanced,Australia
+120,Technology,2332.0,Intermediate,Asia
+121,Sports,3456.5,Advanced,Africa
+122,Travel,2237.4,Intermediate,Asia
+123,Sports,2374.3,Intermediate,South America
+124,Travel,1036.4,Beginner,North America
+125,Finance,4062.1,Advanced,Australia
+126,Finance,955.7,Beginner,South America
+127,Food,1589.5,Amateur,South America
+128,Sports,4025.1,Advanced,Asia
+129,Food,968.3,Beginner,Africa
+130,Food,2043.5,Intermediate,Australia
+131,Food,1438.9,Amateur,Australia
+132,Travel,4029.2,Advanced,Asia
+133,Technology,1533.0,Amateur,Australia
+134,Travel,2364.3,Intermediate,Asia
+135,Travel,2141.4,Intermediate,North America
+136,Travel,4001.2,Advanced,North America
+137,Finance,1531.6,Amateur,South America
+138,Finance,3440.2,Advanced,Europe
+139,Technology,3526.5,Advanced,Africa
+140,Sports,1042.5,Beginner,North America
+141,Finance,2136.3,Intermediate,Asia
+142,Food,2272.8,Intermediate,Australia
+143,Technology,1033.2,Beginner,Australia
+144,Travel,1411.8,Amateur,Asia
+145,Finance,971.7,Beginner,Europe
+146,Finance,1528.1,Amateur,North America
+147,Food,4100.1,Advanced,Asia
+148,Food,2188.9,Intermediate,South America
+149,Food,2149.9,Intermediate,Europe
+150,Finance,1016.8,Beginner,Australia
+151,Finance,1480.2,Amateur,Africa
+152,Travel,1486.9,Amateur,Asia
+153,Travel,2267.7,Intermediate,Africa
+154,Technology,2132.6,Intermediate,Africa
+155,Travel,3589.9,Advanced,Africa
+156,Finance,3353.1,Advanced,Africa
+157,Food,4029.1,Advanced,Asia
+158,Travel,1517.9,Amateur,Europe
+159,Sports,3925.6,Advanced,North America
+160,Finance,1469.6,Amateur,Australia
+161,Finance,1038.4,Beginner,North America
+162,Travel,1526.4,Amateur,Europe
+163,Travel,3723.8,Advanced,Asia
+164,Finance,3989.0,Advanced,North America
+165,Food,2348.8,Intermediate,Australia
+166,Sports,1421.4,Amateur,Asia
+167,Technology,2071.5,Intermediate,Europe
+168,Technology,3296.2,Advanced,Australia
+169,Sports,1446.7,Amateur,Europe
+170,Sports,998.7,Beginner,Europe
+171,Technology,1422.4,Amateur,South America
+172,Finance,3501.1,Advanced,Europe
+173,Travel,3769.6,Advanced,South America
+174,Sports,2248.6,Intermediate,Australia
+175,Technology,2172.1,Intermediate,Australia
+176,Sports,2105.4,Intermediate,Europe
+177,Sports,1416.9,Amateur,South America
+178,Travel,2046.7,Intermediate,Europe
+179,Finance,3533.0,Advanced,South America
+180,Food,2217.6,Intermediate,Africa
+181,Travel,3664.2,Advanced,Africa
+182,Technology,3518.1,Advanced,North America
+183,Technology,3898.1,Advanced,North America
+184,Travel,3711.9,Advanced,Australia
+185,Food,3510.9,Advanced,Australia
+186,Technology,1411.2,Amateur,Africa
+187,Food,1012.3,Beginner,Europe
+188,Travel,957.6,Beginner,Europe
+189,Sports,2349.5,Intermediate,Europe
+190,Sports,1505.2,Amateur,Australia
+191,Finance,1473.4,Amateur,Asia
+192,Finance,1015.1,Beginner,Europe
+193,Finance,1006.0,Beginner,Europe
+194,Finance,2036.4,Intermediate,Europe
+195,Finance,1020.3,Beginner,Europe
+196,Food,2054.8,Intermediate,Australia
+197,Food,983.9,Beginner,Africa
+198,Travel,1545.5,Amateur,South America
+199,Food,969.1,Beginner,Asia
+200,Sports,2155.3,Intermediate,North America
+201,Technology,1000.7,Beginner,North America
+202,Finance,3759.8,Advanced,South America
+203,Finance,1004.7,Beginner,Australia
+204,Finance,1547.7,Amateur,Africa
+205,Finance,3527.4,Advanced,Asia
+206,Sports,2292.2,Intermediate,Asia
+207,Sports,3731.9,Advanced,Europe
+208,Travel,1443.1,Amateur,Africa
+209,Travel,993.6,Beginner,Australia
+210,Technology,1019.2,Beginner,Asia
+211,Travel,1035.6,Beginner,Africa
+212,Technology,970.5,Beginner,Europe
+213,Travel,1008.9,Beginner,Africa
+214,Travel,2248.0,Intermediate,North America
+215,Travel,2304.2,Intermediate,North America
+216,Travel,1010.9,Beginner,Europe
+217,Sports,2189.8,Intermediate,Australia
+218,Food,1420.6,Amateur,South America
+219,Sports,1454.3,Amateur,North America
+220,Finance,1518.2,Amateur,Africa
+221,Finance,2040.8,Intermediate,Asia
+222,Travel,1532.1,Amateur,Asia
+223,Technology,991.6,Beginner,North America
+224,Technology,1555.0,Amateur,Europe
+225,Food,1504.1,Amateur,Europe
+226,Travel,996.7,Beginner,Asia
+227,Finance,987.2,Beginner,North America
+228,Travel,2220.6,Intermediate,South America
+229,Food,1468.1,Amateur,Africa
+230,Travel,1521.4,Amateur,Europe
+231,Travel,2364.1,Intermediate,North America
+232,Sports,2329.9,Intermediate,South America
+233,Technology,1049.7,Beginner,Australia
+234,Technology,3448.2,Advanced,Africa
+235,Sports,1586.5,Amateur,South America
+236,Sports,2336.6,Intermediate,Asia
+237,Food,1518.2,Amateur,Europe
+238,Sports,4011.3,Advanced,Australia
+239,Sports,975.0,Beginner,Africa
+240,Finance,1452.8,Amateur,Africa
+241,Food,956.5,Beginner,Australia
+242,Travel,1045.2,Beginner,Africa
+243,Sports,2275.3,Intermediate,North America
+244,Technology,3478.7,Advanced,Asia
+245,Technology,1530.9,Amateur,North America
+246,Food,1024.3,Beginner,Australia
+247,Food,2038.0,Intermediate,South America
+248,Technology,2083.4,Intermediate,Asia
+249,Technology,1494.2,Amateur,Australia
+250,Sports,2151.5,Intermediate,North America
+251,Finance,2193.3,Intermediate,Africa
+252,Technology,2231.1,Intermediate,South America
+253,Travel,2341.6,Intermediate,South America
+254,Food,2143.8,Intermediate,Africa
+255,Finance,3828.4,Advanced,South America
+256,Finance,3539.9,Advanced,Africa
+257,Technology,2265.4,Intermediate,Asia
+258,Sports,1550.7,Amateur,North America
+259,Travel,1480.3,Amateur,Africa
+260,Finance,2319.4,Intermediate,South America
+261,Food,982.6,Beginner,Africa
+262,Sports,2206.8,Intermediate,Europe
+263,Travel,962.8,Beginner,Asia
+264,Finance,4052.9,Advanced,South America
+265,Finance,2028.3,Intermediate,Australia
+266,Food,1573.4,Amateur,Europe
+267,Finance,3619.0,Advanced,Europe
+268,Sports,1452.9,Amateur,Europe
+269,Finance,3379.2,Advanced,Australia
+270,Food,1488.6,Amateur,Europe
+271,Sports,3673.1,Advanced,Europe
+272,Sports,1420.1,Amateur,Africa
+273,Finance,1490.5,Amateur,Europe
+274,Travel,3852.7,Advanced,Africa
+275,Finance,1509.0,Amateur,Europe
+276,Food,2222.4,Intermediate,Africa
+277,Technology,3579.0,Advanced,South America
+278,Travel,2230.5,Intermediate,South America
+279,Food,2177.1,Intermediate,South America
+280,Finance,2178.6,Intermediate,North America
+281,Finance,2054.9,Intermediate,Asia
+282,Food,1042.9,Beginner,Europe
+283,Food,1453.2,Amateur,Africa
+284,Travel,1473.3,Amateur,Africa
+285,Travel,1524.5,Amateur,Europe
+286,Travel,3531.2,Advanced,North America
+287,Finance,2334.9,Intermediate,Australia
+288,Travel,1025.1,Beginner,Asia
+289,Travel,1484.4,Amateur,Africa
+290,Sports,1007.5,Beginner,Europe
+291,Technology,972.6,Beginner,Australia
+292,Sports,1027.2,Beginner,Australia
+293,Finance,973.8,Beginner,Europe
+294,Food,2101.6,Intermediate,Australia
+295,Food,1035.5,Beginner,Asia
+296,Sports,3704.7,Advanced,Africa
+297,Sports,1524.2,Amateur,Europe
+298,Travel,1554.9,Amateur,Australia
+299,Travel,2332.7,Intermediate,Australia
+300,Food,1044.2,Beginner,South America
+301,Finance,1044.2,Beginner,Africa
+302,Travel,2345.5,Intermediate,Africa
+303,Technology,989.3,Beginner,South America
+304,Finance,2117.1,Intermediate,Asia
+305,Travel,2349.8,Intermediate,Europe
+306,Technology,3791.3,Advanced,South America
+307,Finance,3580.5,Advanced,Asia
+308,Food,985.0,Beginner,Australia
+309,Technology,2149.0,Intermediate,Asia
+310,Sports,1496.1,Amateur,South America
+311,Sports,1506.0,Amateur,North America
+312,Finance,3514.0,Advanced,South America
+313,Technology,2366.2,Intermediate,Europe
+314,Travel,1049.2,Beginner,Australia
+315,Sports,3594.0,Advanced,Australia
+316,Travel,1518.1,Amateur,Australia
+317,Technology,2337.1,Intermediate,Africa
+318,Technology,3411.7,Advanced,Africa
+319,Food,963.5,Beginner,Asia
+320,Sports,1459.4,Amateur,Africa
+321,Travel,1006.5,Beginner,Australia
+322,Sports,2243.2,Intermediate,Australia
+323,Technology,2375.1,Intermediate,Asia
+324,Technology,1494.7,Amateur,Asia
+325,Travel,1041.2,Beginner,Asia
+326,Sports,1456.7,Amateur,Asia
+327,Sports,995.3,Beginner,North America
+328,Sports,1490.9,Amateur,Africa
+329,Finance,1587.8,Amateur,South America
+330,Technology,1570.8,Amateur,Africa
+331,Finance,1467.1,Amateur,Africa
+332,Technology,1002.8,Beginner,Asia
+333,Finance,2060.4,Intermediate,Africa
+334,Finance,4087.9,Advanced,North America
+335,Finance,1577.8,Amateur,Europe
+336,Food,3600.4,Advanced,North America
+337,Sports,3881.9,Advanced,Asia
+338,Travel,994.0,Beginner,Africa
+339,Food,1454.0,Amateur,Australia
+340,Technology,2258.6,Intermediate,Africa
+341,Food,1032.6,Beginner,Europe
+342,Food,2211.5,Intermediate,Europe
+343,Finance,3832.7,Advanced,Africa
+344,Food,1483.2,Amateur,Asia
+345,Finance,1526.2,Amateur,North America
+346,Travel,996.1,Beginner,North America
+347,Finance,1420.0,Amateur,North America
+348,Food,1030.9,Beginner,Asia
+349,Travel,3761.8,Advanced,Australia
+350,Finance,2146.3,Intermediate,Australia
+351,Finance,2063.3,Intermediate,South America
+352,Sports,3850.7,Advanced,Australia
+353,Sports,3926.1,Advanced,Australia
+354,Finance,1448.4,Amateur,Australia
+355,Sports,3567.2,Advanced,Africa
+356,Sports,2119.4,Intermediate,Africa
+357,Sports,2137.6,Intermediate,Europe
+358,Technology,1585.3,Amateur,North America
+359,Sports,958.0,Beginner,Europe
+360,Travel,1560.3,Amateur,Europe
+361,Technology,1465.6,Amateur,South America
+362,Food,3344.5,Advanced,Australia
+363,Travel,1454.2,Amateur,Europe
+364,Technology,1014.5,Beginner,Europe
+365,Travel,1461.3,Amateur,North America
+366,Travel,2176.5,Intermediate,Europe
+367,Food,980.7,Beginner,Australia
+368,Finance,2172.6,Intermediate,Africa
+369,Finance,1521.5,Amateur,South America
+370,Technology,1002.6,Beginner,North America
+371,Technology,1453.3,Amateur,North America
+372,Sports,2341.4,Intermediate,Europe
+373,Technology,1446.7,Amateur,Europe
+374,Travel,3955.9,Advanced,Africa
+375,Sports,996.5,Beginner,South America
+376,Food,2354.8,Intermediate,North America
+377,Technology,1039.6,Beginner,Europe
+378,Finance,2049.3,Intermediate,South America
+379,Travel,1555.8,Amateur,Europe
+380,Sports,2047.2,Intermediate,South America
+381,Travel,1015.2,Beginner,Asia
+382,Food,3344.7,Advanced,Africa
+383,Food,1483.7,Amateur,Asia
+384,Food,2164.3,Intermediate,South America
+385,Technology,1036.8,Beginner,South America
+386,Food,2124.0,Intermediate,South America
+387,Food,1048.2,Beginner,Europe
+388,Travel,2202.2,Intermediate,North America
+389,Technology,2141.5,Intermediate,North America
+390,Technology,1009.0,Beginner,South America
+391,Sports,1489.8,Amateur,Asia
+392,Travel,975.0,Beginner,Africa
+393,Travel,2235.3,Intermediate,Europe
+394,Technology,1442.5,Amateur,South America
+395,Finance,3336.7,Advanced,South America
+396,Travel,980.6,Beginner,South America
+397,Sports,958.3,Beginner,South America
+398,Technology,3810.4,Advanced,Africa
+399,Finance,1421.0,Amateur,Europe
+400,Travel,3576.5,Advanced,North America
+401,Finance,1434.9,Amateur,Africa
+402,Sports,1574.6,Amateur,Asia
+403,Technology,1534.0,Amateur,Europe
+404,Finance,1035.6,Beginner,South America
+405,Food,1499.3,Amateur,Europe
+406,Sports,2359.2,Intermediate,Africa
+407,Technology,3801.3,Advanced,Asia
+408,Food,2300.9,Intermediate,South America
+409,Finance,1487.5,Amateur,Europe
+410,Food,1029.9,Beginner,South America
+411,Travel,995.1,Beginner,South America
+412,Food,3388.3,Advanced,South America
+413,Food,1577.1,Amateur,Australia
+414,Technology,1028.4,Beginner,North America
+415,Travel,2334.0,Intermediate,Africa
+416,Finance,3419.2,Advanced,Australia
+417,Sports,4016.3,Advanced,Europe
+418,Travel,4061.8,Advanced,South America
+419,Food,2213.1,Intermediate,South America
+420,Technology,2272.6,Intermediate,Asia
+421,Travel,1517.8,Amateur,South America
+422,Travel,2090.2,Intermediate,Australia
+423,Finance,3571.5,Advanced,Africa
+424,Finance,2249.6,Intermediate,South America
+425,Finance,1044.0,Beginner,Africa
+426,Food,969.5,Beginner,Europe
+427,Sports,2219.2,Intermediate,Europe
+428,Sports,1515.9,Amateur,Africa
+429,Travel,1445.3,Amateur,Asia
+430,Travel,2107.2,Intermediate,Asia
+431,Technology,3900.5,Advanced,Europe
+432,Technology,1562.1,Amateur,Asia
+433,Sports,951.9,Beginner,South America
+434,Technology,1559.5,Amateur,Australia
+435,Food,3958.3,Advanced,North America
+436,Technology,4105.8,Advanced,Africa
+437,Sports,1007.8,Beginner,North America
+438,Sports,3317.9,Advanced,Asia
+439,Sports,982.4,Beginner,Europe
+440,Travel,2141.8,Intermediate,Africa
+441,Finance,1033.7,Beginner,Europe
+442,Technology,3998.5,Advanced,Africa
+443,Finance,990.9,Beginner,Europe
+444,Travel,1032.8,Beginner,Australia
+445,Food,1030.9,Beginner,Europe
+446,Food,1481.2,Amateur,North America
+447,Food,982.9,Beginner,South America
+448,Sports,1042.6,Beginner,South America
+449,Travel,3901.5,Advanced,South America
+450,Sports,2257.0,Intermediate,North America
+451,Food,1013.8,Beginner,South America
+452,Food,2041.5,Intermediate,Australia
+453,Travel,3863.8,Advanced,Europe
+454,Travel,4026.3,Advanced,Asia
+455,Finance,1026.1,Beginner,Africa
+456,Finance,1049.7,Beginner,Africa
+457,Technology,3605.3,Advanced,Australia
+458,Finance,1518.7,Amateur,Asia
+459,Travel,2037.4,Intermediate,North America
+460,Technology,1000.4,Beginner,Europe
+461,Finance,1522.3,Amateur,North America
+462,Finance,1491.1,Amateur,South America
+463,Technology,2330.2,Intermediate,Asia
+464,Travel,2335.5,Intermediate,Africa
+465,Technology,2314.1,Intermediate,Africa
+466,Travel,1501.5,Amateur,North America
+467,Technology,1011.9,Beginner,North America
+468,Food,2047.9,Intermediate,South America
+469,Sports,970.8,Beginner,South America
+470,Food,956.2,Beginner,Africa
+471,Technology,1046.6,Beginner,South America
+472,Travel,1497.8,Amateur,Australia
+473,Travel,3323.6,Advanced,Europe
+474,Sports,966.2,Beginner,South America
+475,Food,2183.5,Intermediate,Australia
+476,Finance,2087.0,Intermediate,Africa
+477,Finance,1562.2,Amateur,South America
+478,Finance,3306.4,Advanced,Australia
+479,Finance,1015.0,Beginner,Europe
+480,Sports,1505.3,Amateur,Europe
+481,Travel,1507.6,Amateur,Africa
+482,Sports,1033.6,Beginner,Africa
+483,Travel,2101.5,Intermediate,Asia
+484,Sports,978.7,Beginner,Africa
+485,Sports,1018.8,Beginner,Europe
+486,Travel,3652.5,Advanced,Asia
+487,Finance,3365.6,Advanced,Australia
+488,Sports,2252.5,Intermediate,Australia
+489,Food,1021.1,Beginner,North America
+490,Travel,2307.8,Intermediate,Australia
+491,Finance,4012.2,Advanced,North America
+492,Food,1484.4,Amateur,North America
+493,Food,970.8,Beginner,South America
+494,Technology,2321.6,Intermediate,Australia
+495,Technology,1473.3,Amateur,Australia
+496,Travel,1579.5,Amateur,Africa
+497,Food,2099.8,Intermediate,North America
+498,Technology,1444.4,Amateur,Asia
+499,Finance,1425.8,Amateur,Europe
+500,Finance,3812.3,Advanced,Asia
+501,Finance,2184.7,Intermediate,Australia
+502,Finance,1523.4,Amateur,Europe
+503,Sports,1042.5,Beginner,Africa
+504,Finance,2245.9,Intermediate,Africa
+505,Technology,2247.9,Intermediate,Australia
+506,Travel,1471.0,Amateur,South America
+507,Technology,3859.5,Advanced,Australia
+508,Food,3638.8,Advanced,Asia
+509,Technology,1510.5,Amateur,Australia
+510,Sports,4011.4,Advanced,South America
+511,Travel,961.3,Beginner,South America
+512,Food,1435.8,Amateur,North America
+513,Technology,954.2,Beginner,North America
+514,Food,1027.2,Beginner,North America
+515,Finance,1502.3,Amateur,Australia
+516,Sports,978.2,Beginner,Australia
+517,Finance,1020.7,Beginner,Africa
+518,Finance,1465.3,Amateur,Australia
+519,Sports,1015.7,Beginner,Europe
+520,Sports,3729.1,Advanced,North America
+521,Food,3480.3,Advanced,North America
+522,Travel,2150.7,Intermediate,North America
+523,Finance,961.6,Beginner,North America
+524,Travel,989.2,Beginner,Asia
+525,Travel,3620.8,Advanced,South America
+526,Food,992.2,Beginner,South America
+527,Sports,4030.9,Advanced,Asia
+528,Finance,2353.5,Intermediate,Asia
+529,Sports,1016.0,Beginner,South America
+530,Sports,2357.0,Intermediate,Africa
+531,Food,1486.4,Amateur,Asia
+532,Sports,1553.1,Amateur,Europe
+533,Sports,2157.8,Intermediate,North America
+534,Food,1036.2,Beginner,South America
+535,Technology,993.9,Beginner,Australia
+536,Food,2075.0,Intermediate,North America
+537,Technology,974.8,Beginner,Australia
+538,Technology,989.3,Beginner,Europe
+539,Travel,951.8,Beginner,Asia
+540,Travel,993.4,Beginner,North America
+541,Sports,1488.8,Amateur,Asia
+542,Travel,1519.4,Amateur,Australia
+543,Food,2057.4,Intermediate,Australia
+544,Food,986.9,Beginner,Africa
+545,Technology,1000.3,Beginner,South America
+546,Technology,1424.8,Amateur,Africa
+547,Technology,2166.6,Intermediate,Europe
+548,Food,3605.1,Advanced,South America
+549,Technology,1412.1,Amateur,North America
+550,Finance,2168.5,Intermediate,Australia
+551,Food,3593.8,Advanced,Europe
+552,Technology,1046.9,Beginner,Africa
+553,Finance,978.4,Beginner,Australia
+554,Finance,1578.7,Amateur,Australia
+555,Sports,989.1,Beginner,Australia
+556,Sports,1467.9,Amateur,Africa
+557,Finance,3594.7,Advanced,Australia
+558,Food,1490.2,Amateur,North America
+559,Travel,1021.6,Beginner,Africa
+560,Finance,3756.7,Advanced,Australia
+561,Technology,3859.7,Advanced,North America
+562,Food,2067.5,Intermediate,South America
+563,Sports,984.9,Beginner,North America
+564,Finance,1539.5,Amateur,Europe
+565,Food,1461.5,Amateur,Europe
+566,Finance,1035.1,Beginner,South America
+567,Travel,3806.0,Advanced,Asia
+568,Travel,2351.0,Intermediate,Africa
+569,Finance,2029.3,Intermediate,Asia
+570,Travel,1041.1,Beginner,Australia
+571,Finance,954.4,Beginner,Australia
+572,Technology,1478.5,Amateur,North America
+573,Finance,3595.3,Advanced,Africa
+574,Technology,3916.7,Advanced,Africa
+575,Technology,1467.5,Amateur,Europe
+576,Technology,1047.6,Beginner,North America
+577,Travel,2359.2,Intermediate,Europe
+578,Sports,2045.2,Intermediate,Australia
+579,Food,3916.6,Advanced,South America
+580,Sports,2049.1,Intermediate,Europe
+581,Food,990.3,Beginner,South America
+582,Sports,1520.1,Amateur,Asia
+583,Food,3855.2,Advanced,Australia
+584,Food,2024.5,Intermediate,Africa
+585,Technology,1412.5,Amateur,Australia
+586,Food,1048.4,Beginner,Australia
+587,Sports,1491.7,Amateur,South America
+588,Travel,3979.0,Advanced,Australia
+589,Food,2083.3,Intermediate,Asia
+590,Sports,1485.2,Amateur,Australia
+591,Food,2254.0,Intermediate,Europe
+592,Food,1569.3,Amateur,Australia
+593,Sports,3863.9,Advanced,Africa
+594,Finance,1007.6,Beginner,Africa
+595,Travel,1048.8,Beginner,Europe
+596,Travel,3575.3,Advanced,North America
+597,Travel,1511.0,Amateur,South America
+598,Travel,3348.4,Advanced,Asia
+599,Travel,2345.4,Intermediate,South America
+600,Finance,4087.8,Advanced,North America
+601,Sports,1010.8,Beginner,Asia
+602,Finance,3797.5,Advanced,Asia
+603,Food,1411.7,Amateur,Australia
+604,Travel,3943.0,Advanced,Europe
+605,Technology,2160.1,Intermediate,Australia
+606,Sports,3689.2,Advanced,Asia
+607,Technology,1049.7,Beginner,Asia
+608,Finance,1479.9,Amateur,Europe
+609,Technology,3770.3,Advanced,Europe
+610,Travel,3767.4,Advanced,Africa
+611,Travel,3440.5,Advanced,Europe
+612,Food,3742.8,Advanced,Asia
+613,Food,2328.2,Intermediate,North America
+614,Travel,1038.6,Beginner,Africa
+615,Finance,1033.9,Beginner,Europe
+616,Sports,982.6,Beginner,South America
+617,Travel,1043.8,Beginner,Asia
+618,Finance,3865.2,Advanced,North America
+619,Food,3356.6,Advanced,North America
+620,Sports,1583.8,Amateur,South America
+621,Finance,1510.8,Amateur,South America
+622,Travel,1025.5,Beginner,North America
+623,Sports,987.8,Beginner,Asia
+624,Sports,1019.7,Beginner,Africa
+625,Food,1022.0,Beginner,South America
+626,Technology,4080.8,Advanced,South America
+627,Finance,3574.4,Advanced,Europe
+628,Finance,2325.5,Intermediate,Asia
+629,Food,993.2,Beginner,North America
+630,Food,2298.6,Intermediate,Africa
+631,Sports,2091.8,Intermediate,Europe
+632,Sports,988.0,Beginner,Europe
+633,Travel,980.8,Beginner,Africa
+634,Technology,2202.8,Intermediate,South America
+635,Technology,1526.5,Amateur,North America
+636,Sports,1585.4,Amateur,South America
+637,Sports,1415.0,Amateur,Europe
+638,Technology,1588.2,Amateur,South America
+639,Travel,969.7,Beginner,Europe
+640,Technology,1574.8,Amateur,Asia
+641,Sports,2046.1,Intermediate,North America
+642,Travel,2368.1,Intermediate,South America
+643,Technology,2312.6,Intermediate,South America
+644,Travel,2043.9,Intermediate,Australia
+645,Travel,979.3,Beginner,Australia
+646,Travel,1412.8,Amateur,Africa
+647,Food,1578.1,Amateur,Australia
+648,Sports,992.6,Beginner,Africa
+649,Finance,2212.1,Intermediate,Africa
+650,Travel,1485.9,Amateur,North America
+651,Food,2268.4,Intermediate,North America
+652,Finance,1465.1,Amateur,South America
+653,Technology,1441.2,Amateur,Asia
+654,Travel,1504.4,Amateur,Europe
+655,Food,960.3,Beginner,North America
+656,Food,3522.6,Advanced,Australia
+657,Travel,961.3,Beginner,Asia
+658,Sports,3522.9,Advanced,North America
+659,Sports,4084.9,Advanced,North America
