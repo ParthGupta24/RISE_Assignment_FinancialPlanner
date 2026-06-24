@@ -16,7 +16,7 @@ This is a simple financial planner which allows a user to plan out activites fro
 ### Deliverables:<br>
 - app.py: Main logic for the application<br>
 - datagen.py: Dataset generator. Can be loosely controlled using app.py<br>
-- dataset.csv: Holds the Activities dataset<br>
+- dataset.csv: Holds the Activities dataset<br><br>
 
 ### Usage:<br>
 1. Enter the working directory of this Project in your terminal/Command prompt. Current working directory can be seen as the file path in terminal prompt.<br>
