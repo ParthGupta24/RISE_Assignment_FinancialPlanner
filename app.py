@@ -4,14 +4,16 @@ import pandas as pd
 import numpy as np
 import datagen
 
-cats = ['Beginner', 'Amateur', 'Intermediate', 'Advanced']
-conts = ['Africa', 'Asia', 'Europe', 'North America', 'South America', 'Australia']
-doms = ['Technology', 'Finance', 'Travel', 'Food', 'Sports']
-costs = [1000, 1500, 2200, 3700]
-vars = [50, 90, 176, 407]
+cats = ['Beginner', 'Amateur', 'Intermediate', 'Advanced']          #Categories for the User level
+conts = ['Africa', 'Asia', 'Europe', 'North America', 'South America', 'Australia']     #Continents to included
+doms = ['Technology', 'Finance', 'Travel', 'Food', 'Sports']        #Domains for Activity planning
+costs = [1000, 1500, 2200, 3700]                                    #Baseline costs for each category (User Level) - Used to control dataset generation
+vars = [50, 90, 176, 407]                                           #Bounds for deviation Corresponding baselines to add randomness in activity cost
+#Making key value pairs to ensure mapping between cost and User level
 bases = dict(zip(cats, costs))
 devs = dict(zip(cats, vars))
 
+#Streamlit page
 st.set_page_config("Dashboard")
 
 if st:
@@ -30,6 +32,7 @@ sidebar = st.sidebar
 datagener = sidebar.expander("Dataset generator")
 scol1, scol2 = datagener.columns(2)
 rows = scol1.slider("No. of Rows:", min_value=100, max_value=2000, value=500)
+#Dataset generator
 dataset_gen = scol2.button("Generate a mock dataset")
 if dataset_gen:
     datagen.main(continents=conts, status=cats, categories=doms, amount_baselines=bases, amount_devs=devs, n=rows)
@@ -38,6 +41,7 @@ target = sidebar.selectbox("Target Continent", conts)
 interests = sidebar.multiselect("Interests", doms)
 budget = sidebar.slider("Investment Budget", 0, 10000)
 
+#Main Dashboard
 start_date = st.date_input("Project Start Date", 'today')
 activities = st.expander("View all activites")
 df = pd.DataFrame(pd.read_csv('dataset.csv'), columns=['Category', 'Amount', 'Status', 'Continent'])
@@ -52,8 +56,9 @@ for i in interests:
 df_display['Date'] = start_date
 df_display = df_display.values[ind]
 df_display = pd.DataFrame(df_display, columns=['Category', 'Amount', 'Status', 'Continent', 'Date'])
-df_display = pd.DataFrame(df_display, columns=['Date', 'Category', 'Amount', 'Status'])
+df_display = pd.DataFrame(df_display, columns=['Date', 'Category', 'Amount', 'Status'])         #DataFrame reorganization for viewing purposes
 
+#Validation logic to detect whether Report can be generated.
 if len(interests) > 0:
     col1.dataframe(df_display)
     for i in interests:
